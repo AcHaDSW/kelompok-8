@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "nama": "Nasi Goreng  Spesial",
+        "deskripsi": "Nasi goreng komplit dengan telur, ayam, dan sambel.",
+        "harga": 25000,
+        "image":"Nasi goreng.jpg"
+    },
+    {
+        "id": 2,
+        "nama": "Ayam Goreng Crispy",
+        "deskripsi": "Ayam goreng renyah dengan kremesan gurih.",
+        "harga": 10000,
+        "image": "Ayam goreng.jpg"
+    },
+    {
+        "id": 3,
+        "nama": "Mie Ayam Bakso",
+        "deskripsi": "Mie ayam hangat dengan bakso yang kenyal dan kuah kaldu yang gurih.",
+        "harga": 15000,
+        "image":"Mie ayam bakso.jpg"
+    },
+    {
+        "id": 4,
+        "nama": "Ramen",
+        "deskripsi": "Ramen adalah mie Jepang berkuah gurih dengan topping seperti daging, telur, dan sayuran.",
+        "harga": 40000,
+        "image":"Ramen.jpg"
+    },
+    {
+        "id": 5,
+        "nama": " Sate Taichan",
+        "deskripsi": "Sate ayam tanpa bumbu kacang, dibakar tanpa kecap dan disajikan dengan sambal pedas serta lontong.",
+        "harga": 30000,
+        "image": "Sate taichan.jpg"
+    },
+    {
+        "id":6,
+         "nama":"Boba Brown Sugar",
+         "deskripsi":"Boba brown sugar dengan paduan susu segar dan sirup gula aren yang manis legit",
+         "harga":20000,
+         "image":"Boba brown sugar.jpg"
+    },
+    {
+        "id":7,
+        "nama":"Thai Tea Green Tea",
+        "deskripsi":"Thai tea dengan rasa manis khas dan green tea dengan aroma teh hijau segar",
+        "harga":15000,
+        "image":"thai-green-tea-feature.jpg"
+    },
+    {
+        "id":8,
+        "nama":"Es Kopi Susu Gula Aren",
+         "deskripsi":"Kopi susu gula aren dengan paduan kopi, susu segar, dan sirup gula aren manis",
+        "harga":18000,
+        "image":"Kopi susu gula aren.jpg"
+        },
+        {
+        "id":9,
+        "nama":"Alpukat kocok",
+        "deskripsi":"Alpukat kocok adalah minuman creamy dengan rasa manis gurih dari alpukat dan susu",
+        "harga":13000,
+        "image":"Alpukat kocok.jpg"
+        },
+        {
+        "id":10,
+        "nama":"Fresh Lemonade",
+        "deskripsi":"Lemonade adalah minuman segar dengan rasa asam manis dari lemon dan gula",
+        "harga":10000,
+        "image":"Lemonade19-3.jpg"
+        }
+]
